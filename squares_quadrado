@@ -1,0 +1,4 @@
+# Código para calcular o quadrado de um número.
+
+for i in range(15):
+  print('The square of ' + str(i) + ' is ' + str(i*i))
